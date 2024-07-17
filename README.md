@@ -33,5 +33,37 @@ This project is a clone of the Myntra website, implemented using HTML and CSS fo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/myntra-clone.git
+   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
 
+# Week-3 To-Do List
+
+This project is a simple To-Do List application implemented using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as completed.
+
+## Features
+
+- **Add Tasks**: Enter a task and press 'Enter' or click 'Add' to add it to the list.
+- **Remove Tasks**: Click on the task to remove it from the list.
+- **Mark Completed**: Click on the checkbox to mark a task as completed.
+- **Local Storage**: Tasks are stored in the browser's local storage for persistence.
+
+## Installation and Usage
+
+1. **Clone the repository**:
+   ```bash
+   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-3
+
+# Week-4 Connect-4 Game
+This project is a browser-based implementation of the classic Connect-4 game using HTML, CSS, and JavaScript. Connect-4 is a two-player connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs vertically, horizontally, or diagonally before the opponent.
+
+## Features
+
+- **Two-Player Gameplay**: Play against a friend locally on the same device.
+- **Dynamic Board**: Visual representation of the game board with interactive dropping discs.
+- **Win Detection**: Automatically detects and highlights winning moves.
+- **Restart Game**: Option to restart the game after a win or draw.
+
+## Installation and Usage
+
+1. **Clone the repository**:
+   ```bash
+   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-4
