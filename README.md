@@ -19,4 +19,4 @@ This project is a basic calculator implemented using HTML and CSS.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   [git clone https://github.com/your-username/simple-calculator.git](https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1)
